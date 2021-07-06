@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "producto": "Agua de Mesa Kin Sin Gas 225 Lts",
+    "precio": 52.15,
+    "imagen": "/imagenes/ofertas/Agua-de-Mesa-Kin-Sin-Gas-225-Lts-_52",
+    "stock": 52
+  }, {
+    "id": 2,
+    "producto": "Agua Mineral sin Gas Villa del Sur 625 Lts",
+    "precio": 227.4,
+    "imagen": "/imagenes/ofertas/Agua-Mineral-sin-Gas-Villa-del-Sur-625-Lts-_227",
+    "stock": 74
+  }, {
+    "id": 3,
+    "producto": "Aperitivo Dr-Lemon Mojito 1 Lt",
+    "precio": 204.49,
+    "imagen": "/imagenes/ofertas/Aperitivo-Dr--Lemon-Mojito-1-Lt-_204",
+    "stock": 73
+  }, {
+    "id": 4,
+    "producto": "Cerveza Imperial Stout lata 473 Ml",
+    "precio": 135.35,
+    "imagen": "/imagenes/ofertas/Cerveza-Imperial-Stout-lata-473-Ml-_135",
+    "stock": 17
+  }, {
+    "id": 5,
+    "producto": "Cerveza Patagonia Amber Lager en lata 473 Ml",
+    "precio": 115.15,
+    "imagen": "/imagenes/ofertas/Cerveza-Patagonia-Amber-Lager-en-lata-473-Ml-_115",
+    "stock": 79
+  }, {
+    "id": 6,
+    "producto": "Sidra Saenz Briones 1888 750 Ml",
+    "precio": 319.6,
+    "imagen": "/imagenes/ofertas/Sidra-Saenz-Briones-1888-750-Ml-_319",
+    "stock": 18
+  }, {
+    "id": 7,
+    "producto": "Vino Rosado Dulce Norton Cosecha Tardia 750 Ml",
+    "precio": 319.96,
+    "imagen": "/imagenes/ofertas/Vino-Rosado-Dulce-Norton-Cosecha-Tardia-750-Ml-_319",
+    "stock": 73
+  }, {
+    "id": 8,
+    "producto": "Vino Tinto Alma Mora Reserva Malbec 750 ml",
+    "precio": 425.5,
+    "imagen": "/imagenes/ofertas/Vino-Tinto-Alma-Mora-Reserva-Malbec-750-ml-_425",
+    "stock": 2
+  }, {
+    "id": 9,
+    "producto": "Vino Tinto El Bautismo Malbec 750 Ml",
+    "precio": 259.4,
+    "imagen": "/imagenes/ofertas/Vino-Tinto-El-Bautismo-Malbec-750-Ml-_259",
+    "stock": 90
+  }, {
+    "id": 10,
+    "producto": "Vino Tinto Elementos Malbec 750 ml",
+    "precio": 264.62,
+    "imagen": "/imagenes/ofertas/Vino-Tinto-Elementos-Malbec-750-ml-_264",
+    "stock": 17
+  }, {
+    "id": 11,
+    "producto": "Vino Tinto Malbec y Cabernet Sauvignon Finca Natalina 750 Ml",
+    "precio": 399.21,
+    "imagen": "/imagenes/ofertas/Vino-Tinto-Malbec-y-Cabernet-Sauvignon-Finca-Natalina-750-Ml_399",
+    "stock": 69
+  }, {
+    "id": 12,
+    "producto": "Vino Tinto Zuccardi Malbec 750 Ml",
+    "precio": 949.08,
+    "imagen": "/imagenes/ofertas/Vino-Tinto-Zuccardi-Malbec-750-Ml-_949",
+    "stock": 6
+  }]  

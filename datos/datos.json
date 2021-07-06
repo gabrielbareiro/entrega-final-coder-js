@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "articulo": "Agua Saborizada Levite Manzana 225 Lts",
+    "precio": 135.55,
+    "imagen": "imagenes/Agua-Saborizada-Levite-Manzana-225-Lts-_1.jpg",
+    "stock": 30
+  }, {
+    "id": 2,
+    "articulo": "Agua Tonica 225 Lts",
+    "precio": 61.65,
+    "imagen": "imagenes/Agua-Tonica-DIA-225-Lts-_1.jpg",
+    "stock": 18
+  }, {
+    "id": 3,
+    "articulo": "Fernet Branca 750 ml",
+    "precio": 599.99,
+    "imagen": "imagenes/Aperitivo-Fernet-Branca-750-ml-_1.jpg",
+    "stock": 90
+  }, {
+    "id": 4,
+    "articulo": "Cerveza Amstel Lager Suave lata 473 Ml",
+    "precio": 94.99,
+    "imagen": "imagenes/Cerveza-Amstel-Lager-Suave-lata-473-Ml-_1.jpg",
+    "stock": 45
+  }, {
+    "id": 5,
+    "articulo": "Cerveza Heineken Lata 473 ml",
+    "precio": 149.99,
+    "imagen": "imagenes/Cerveza-Heineken-Lata-473-ml-_1.jpg",
+    "stock": 75
+  }, {
+    "id": 6,
+    "articulo": "Cerveza Imperial Amber Lager lata 473 Ml",
+    "precio": 135.99,
+    "imagen": "imagenes/Cerveza-Imperial-Amber-Lager-lata-473-Ml-_1.jpg",
+    "stock": 27
+  }, {
+    "id": 7,
+    "articulo": "Cerveza Imperial Golden lata 473 Ml",
+    "precio": 116.99,
+    "imagen": "imagenes/Cerveza-Imperial-Golden-lata-473-Ml-_1.jpg",
+    "stock": 94
+  }, {
+    "id": 8,
+    "articulo": "Cerveza Ipa Imperial lata 473 Ml",
+    "precio": 159.99,
+    "imagen": "imagenes/Cerveza-Ipa-Imperial-lata-473-Ml-_1.jpg",
+    "stock": 65
+  }, {
+    "id": 9,
+    "articulo": "Cerveza Miller en Lata 473 ml",
+    "precio": 79.99,
+    "imagen": "imagenes/Cerveza-Miller-en-Lata-473-ml-_1.jpg",
+    "stock": 64
+  }, {
+    "id": 10,
+    "articulo": "Vino Tinto Novecento Malbec 750 ml",
+    "precio": 219.99,
+    "imagen": "imagenes/Vino-Tinto-Novecento-Malbec-750-ml-_1.jpg",
+    "stock": 58
+  }, {
+    "id": 11,
+    "articulo": "Gaseosa CocaCola Sabor Original 125 Lts",
+    "precio": 103.50,
+    "imagen": "imagenes/Gaseosa-CocaCola-Sabor-Original-125-Lts-_1.jpg",
+    "stock": 77
+  }, {
+    "id": 12,
+    "articulo": "Jugo Cepita del Valle naranja 1 Lt",
+    "precio": 67.19,
+    "imagen": "imagenes/Jugo-Cepita-del-Valle-naranja-1-Lt-_1.jpg",
+    "stock": 39
+  }, {
+    "id": 13,
+    "articulo": "Gaseosa Crush sin azucares limalimon 225 Lts",
+    "precio": 79.25,
+    "imagen": "imagenes/Gaseosa-Crush-sin-azucares-limalimon-225-Lts-_1.jpg",
+    "stock": 12
+  }, {
+    "id": 14,
+    "articulo": "Vino Tinto Alma Mora Malbec 750 ml",
+    "precio": 313.99,
+    "imagen": "imagenes/Vino-Tinto-Alma-Mora-Malbec-750-ml-_1.jpg",
+    "stock": 17
+  }, {
+    "id": 15,
+    "articulo": "Gaseosa Schweppes tonica 15 Lts",
+    "precio": 101.90,
+    "imagen": "imagenes/Gaseosa-Schweppes-tonica-15-Lts-_1.jpg",
+    "stock": 46
+  }, {
+    "id": 16,
+    "articulo": "Cerveza Stella Artois en Lata 473 ml",
+    "precio": 149.99,
+    "imagen": "imagenes/Cerveza-Stella-Artois-en-Lata-473-ml-_1.jpg",
+    "stock": 84
+  }, {
+    "id": 17,
+    "articulo": "Cerveza Schneider en Lata 473 ml",
+    "precio": 92.49,
+    "imagen": "imagenes/Cerveza-Schneider-en-Lata-473-ml-_1.jpg",
+    "stock": 41
+  }, {
+    "id": 18,
+    "articulo": "Cerveza Rubia Corona Botella 710 ml",
+    "precio": 212.99,
+    "imagen": "imagenes/Cerveza-Rubia-Corona-Botella-710-ml-_1.jpg",
+    "stock": 30
+  }, {
+    "id": 19,
+    "articulo": "Cerveza Quilmes 1890 en Lata 473 ml",
+    "precio": 79.99,
+    "imagen": "imagenes/Cerveza-Quilmes-1890-en-Lata-473-ml-_1.jpg",
+    "stock": 78
+  }, {
+    "id": 20,
+    "articulo": "Gaseosa Schweppes sin azucares pomelo 225 Lts",
+    "precio": 125.89,
+    "imagen": "imagenes/Gaseosa-Schweppes-sin-azucares-pomelo-225-Lts-_1.jpg",
+    "stock": 43
+  }]

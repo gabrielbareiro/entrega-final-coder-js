@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+    box-sizing: border-box;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    font-size: 4rem;
+}
+/* formulario */
+
+.popup form .btnIngresar {
+    margin: 10px;
+    font-size: 1.5rem;
+}
+
+.inputForm {
+    font-size: 1.5rem;
+    margin-top: 10px;
+    
+}
+
+.articulos {
+    font-size: 1.9rem;
+    margin: 10px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.login {
+    font-size: 1.5rem;
+    width: 150px;
+    padding: 5px 0px;
+    margin: 10px 0px;
+}
+/* carrito */
+.productos {
+    margin-top: 20px;
+}
+
+.textoCarrito{
+    font-size: 1.5rem;
+}
+
+.cardProducto{
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+}
+.btnCompra{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.lista{
+    font-size: 1.5rem;
+}
+.icono{
+    width: 40px;
+}
+.borrar{
+    width: 20px;
+}
+.confirmado{
+    padding: 0 20px;
+}
+.notConfirm{
+    display: flex;
+    align-items: center;
+}
+.btnEliminar{
+    
+    padding: 0%;
+
+
+}
+/* footer */
+.foot{
+    background-color: rgb(12, 12, 12);
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+.footTexto{
+    color: #f8f8f8;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+.footGit{
+    display: flex;
+    align-items: center;
+}
+/* cards */
+.textCard {
+    font-size: 1.1rem;
+}
